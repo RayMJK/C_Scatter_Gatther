@@ -1,0 +1,589 @@
+Fri Oct 16 10:44:55 2020 [INFO] Opened workload for reading, [/home/mcdaniel/gitlab/courses/cmpsc311-f20/assignments/workload/cmpsc311-assign3-alt-workload.txt].
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSC311 SG : executing workload [/home/mcdaniel/gitlab/courses/cmpsc311-f20/assignments/workload/cmpsc311-assign3-alt-workload.txt]
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 OPEN
+Fri Oct 16 10:44:55 2020 [INFO] Initializing local endpoint ...
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgInitialize: initialization system complete.
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgServicePost: Assigned new nodel ID [860587969l] to local node.
+Fri Oct 16 10:44:55 2020 [INFO] Completed initialization of node (local node ID 17257755479015917505
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Opened file [cmpsc311-f20-sample-1] with file handle [4]
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] SG Open file [cmpsc311-f20-sample-1]
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: using new node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [10208660613925578174] on node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [2509120958l] on node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 0 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [5788147667142431852] on node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [3884438636l] on node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 1024 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [14267697856283106502] on node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [1448828102l] on node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 2048 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [16944124324257404681] on node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [2439714569l] on node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 3072 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [5474404978542860657] on node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [3333249393l] on node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 4096 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: using new node [10472184220756707845]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [1894025172605167697] on node [10472184220756707845]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [147286097l] on node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 5120 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: using new node [11307543232587569163]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [13537114954898695313] on node [11307543232587569163]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [710763665l] on node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 6144 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [4565803678675416374] on node [4860796882568251391]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [1302246710l] on node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 7168 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [15286461748362461744] on node [10472184220756707845]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [264094256l] on node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 8192 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 WRITE off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: using new node [9824938681504481646]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgCreateBlock: Create new block [3196785971202488485] on node [9824938681504481646]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverCreateBlock: Created block [1283061925l] on node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (fh=1024, 9216 bytes at offset 1594439344)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Wrote data to file [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=0, sz=1024 [Px-.I@GGt; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Wrote cmpsc311-f20-sample-1 (0 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2509120958l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 0)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 0
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=1024, sz=1024 [1*+HD%p(in <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3884438636l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 1024)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 1024
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=2048, sz=1024 [3i;@KmGu;! <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1448828102l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 2048)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 2048
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=3072, sz=1024 [_pb4v (omZ <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [2439714569l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 3072)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 3072
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=4096, sz=1024 [A7=)m@ZMmv <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [3333249393l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 4096)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 4096
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=5120, sz=1024 [x3U>%[JT89 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [147286097l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 5120)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 5120
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=6144, sz=1024 [}?jTjo{sc; <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [710763665l] from node [4240513035l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 6144)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 6144
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=7168, sz=1024 [db!x+1vUA4 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1302246710l] from node [3603859455l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 7168)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 7168
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=8192, sz=1024 [(t&,~{J_8* <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [264094256l] from node [2494007813l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 8192)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 8192
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 READ off=9216, sz=1024 [I@q|0{v342 <more data follows>]
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgObtainBlock: obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] sgDriverObtainBlock: Obtained block [1283061925l] from node [319930734l]
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Read cmpsc311-f20-sample-1 (1024 bytes at offset 9216)
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Correctly read from [cmpsc311-f20-sample-1], 1024 bytes at position 9216
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 CLOSE
+Fri Oct 16 10:44:55 2020 [SG_DRIVER] Closed file [cmpsc311-f20-sample-1], fh [4]
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] Closed file [cmpsc311-f20-sample-1].
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] CMPSCS311 workload op: cmpsc311-f20-sample-1 END_WORKLOAD
+Fri Oct 16 10:44:55 2020 [INFO] Stopping local endpoint ...
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgShutdownService: Cleaning up node [140669238653696], [2] blocks.
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgShutdownService: Cleaning up node [93969312820832], [6] blocks.
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgShutdownService: Cleaning up node [140669238653600], [1] blocks.
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgShutdownService: Cleaning up node [140669238653504], [1] blocks.
+Fri Oct 16 10:44:55 2020 [SG_SERVICE] sgShutdownService: scatter/gather system shutdown complete.
+Fri Oct 16 10:44:55 2020 [INFO] Stopped local node (local node ID 17257755479015917505).
+Fri Oct 16 10:44:55 2020 [INFO] Shut down Scatter/Gather driver.
+Fri Oct 16 10:44:55 2020 [SG_SIMULATOR] End of the workload file (processed)
+Fri Oct 16 10:44:55 2020 [INFO] Closing workload [/home/mcdaniel/gitlab/courses/cmpsc311-f20/assignments/workload/cmpsc311-assign3-alt-workload.txt].
+Fri Oct 16 10:44:55 2020 [INFO] ScatterGather.com simulation completed successfully!!!
+
